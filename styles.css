@@ -10,6 +10,8 @@ body {
     margin: auto;
     width: 960px;
 }
+
+
 .Slika{
     height: 150px;
     padding: 10px;
@@ -18,11 +20,16 @@ body {
     background-color:#DDDDDD;
     
 }
-
+  table , th, td { 
+      border: 1px solid #CCCCCC;
+}
 
 th {
     background-color: #ECE7D7;
+    
 }
 td {
     background-color: #F5F4F2;
+   
+   
 }
