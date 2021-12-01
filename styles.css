@@ -1,0 +1,28 @@
+
+body {
+  
+    padding: 20px;
+    background-color:#89D6D9
+    
+}
+#tijelo{
+    background-color: #FFFFFF;
+    margin: auto;
+    width: 960px;
+}
+.Slika{
+    height: 150px;
+    padding: 10px;
+}
+.Dole{
+    background-color:#DDDDDD;
+    
+}
+
+
+th {
+    background-color: #ECE7D7;
+}
+td {
+    background-color: #F5F4F2;
+}
